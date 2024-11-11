@@ -21,9 +21,7 @@ class Solution:
                         r = r -1
                     elif(arr[l]+arr[r]+arr[i]<0):
                         l = l+1
-                    else:
-                        l=l+1
-                        r=r-1
+
 
                     
 
