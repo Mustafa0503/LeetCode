@@ -1,6 +1,5 @@
 class Solution:
     def threeSum(self, arr: List[int]) -> List[List[int]]:
-        dic = {}
         arr.sort()
         res = []
 
@@ -11,16 +10,16 @@ class Solution:
             r = len(arr)-1
 
             while(l<r):
-
-                if(arr[l]+arr[i] + arr[r]==0):
+                summm = arr[l]+arr[i] + arr[r]
+                if(summm==0):
                     res.append([arr[i],arr[l],arr[r]])
                     l=l+1
                     
                     while(arr[l]==arr[l-1] and l<r):
                         l=l+1
-                elif(arr[l]+arr[r]+arr[i]>0):
+                elif(summm>0):
                     r = r -1
-                elif(arr[l]+arr[r]+arr[i]<0):
+                elif(summm<0):
                     l = l+1
 
 
