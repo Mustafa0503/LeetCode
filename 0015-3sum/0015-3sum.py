@@ -5,22 +5,23 @@ class Solution:
         res = []
 
         for i in range(len(arr)):
-            if((i>0 and arr[i-1]!=arr[i]) or i==0):
-                l = i+1
-                r = len(arr)-1
+            if((i>0 and arr[i-1]==arr[i])):
+                continue
+            l = i+1
+            r = len(arr)-1
 
-                while(l<r):
+            while(l<r):
 
-                    if(arr[l]+arr[i] + arr[r]==0):
-                        res.append([arr[i],arr[l],arr[r]])
+                if(arr[l]+arr[i] + arr[r]==0):
+                    res.append([arr[i],arr[l],arr[r]])
+                    l=l+1
+                    
+                    while(arr[l]==arr[l-1] and l<r):
                         l=l+1
-                        
-                        while(arr[l]==arr[l-1] and l<r):
-                            l=l+1
-                    elif(arr[l]+arr[r]+arr[i]>0):
-                        r = r -1
-                    elif(arr[l]+arr[r]+arr[i]<0):
-                        l = l+1
+                elif(arr[l]+arr[r]+arr[i]>0):
+                    r = r -1
+                elif(arr[l]+arr[r]+arr[i]<0):
+                    l = l+1
 
 
                     
