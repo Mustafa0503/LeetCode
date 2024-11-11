@@ -14,7 +14,7 @@ class Solution:
                     if(arr[l]+arr[i] + arr[r]==0):
                         res.append([arr[i],arr[l],arr[r]])
                         l=l+1
-                        r=r-1
+                        
                         while(arr[l]==arr[l-1] and l<r):
                             l=l+1
                     elif(arr[l]+arr[r]+arr[i]>0):
