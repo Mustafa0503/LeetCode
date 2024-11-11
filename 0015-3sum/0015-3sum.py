@@ -3,8 +3,8 @@ class Solution:
         arr.sort()
         res = []
 
-        for i in range(len(arr)):
-            if((i>0 and arr[i-1]==arr[i])):
+        for i,a in enumerate(arr):
+            if((i>0 and arr[i-1]==a)):
                 continue
             l = i+1
             r = len(arr)-1
