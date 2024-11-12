@@ -20,9 +20,7 @@ class Solution:
                 if(summm==target):
                     return target
                     l=l+1
-                    
-                    while(arr[l]==arr[l-1] and l<r):
-                        l=l+1
+
                 elif(summm>target):
                     t = abs((arr[l]+arr[r]+arr[i]-target))
                     if(abs(ress)>t):
