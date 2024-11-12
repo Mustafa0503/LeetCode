@@ -12,29 +12,16 @@ class Solution:
                 continue
             l = i+1
             r = len(arr)-1
-
             while(l<r):
                 summm = arr[l]+arr[i] + arr[r]
-
-                # print(i,l,r)
                 if(summm==target):
                     return target
-                    l=l+1
-
-                elif(summm>target):
-                    t = abs((arr[l]+arr[r]+arr[i]-target))
-                    if(abs(ress)>t):
-                        ress = t
-                        fin = summm
+                if(abs(ress)>abs(summm - target)):
+                    ress = abs(summm -  target)
+                    fin = summm
+                if(summm>target):
                     r = r -1
                 elif(summm<target):
-                    
-                    t = abs((arr[l]+arr[r]+arr[i]-target))
-
-                    if(abs(ress)>t):
-    
-                        ress = t
-                        fin = summm
                     l = l+1
-                # ?print(summm, ress,fin)
+                
         return fin
