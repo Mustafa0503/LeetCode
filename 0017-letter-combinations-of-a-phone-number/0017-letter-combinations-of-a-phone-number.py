@@ -18,11 +18,11 @@ class Solution:
             return list(d[digits])
         s=""
         for i in digits:
-            for j in d[i]:
-                s=s+j
             
-            let.append(s)
-            s=""
+            let.append(d[i])
+            
+            
+         
         s=""
         combinations = [''.join(chars) for chars in product(*let)]
         print(combinations)
