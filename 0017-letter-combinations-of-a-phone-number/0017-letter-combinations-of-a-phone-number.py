@@ -1,7 +1,6 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if(digits == ""):
-            return []
+
         ls = []
         let = []
         d = {
@@ -14,20 +13,23 @@ class Solution:
             '8': 'tuv',
             '9': 'wxyz'
         }
-        if(len(digits)==1):
-            return list(d[digits])
+        if(len(digits)==0):
+            return []
         s=""
+        combinations=[""]
+        
         for i in digits:
-            
-            let.append(d[i])
-            
-            
-         
-        s=""
-        combinations = [''.join(chars) for chars in product(*let)]
-        print(combinations)
-                   
+            new_comb=[]
+            word = d[i]
+
+            for comb in combinations:
                 
+                for letter in word:
+                   
+                    new_comb.append(comb + letter)
+            combinations = new_comb                   
+                
+
 
                 
         return combinations
