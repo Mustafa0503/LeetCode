@@ -1,42 +1,26 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        arr = nums
-        arr.sort()
-        res = []
+        nums.sort()
+        closest_sum = float('inf')
         
-        ress=abs(nums[0]+nums[1]+nums[2]-target)
-        fin=nums[0]+nums[1]+nums[2]
-        t = 0
-        for i,a in enumerate(arr):
-            if((i>0 and arr[i-1]==a)):
-                continue
-            l = i+1
-            r = len(arr)-1
-
-            while(l<r):
-                summm = arr[l]+arr[i] + arr[r]
-
-                # print(i,l,r)
-                if(summm==target):
-                    return target
-                    l=l+1
-                    
-                    while(arr[l]==arr[l-1] and l<r):
-                        l=l+1
-                elif(summm>target):
-                    t = abs((arr[l]+arr[r]+arr[i]-target))
-                    if(abs(ress)>t):
-                        ress = t
-                        fin = summm
-                    r = r -1
-                elif(summm<target):
-                    
-                    t = abs((arr[l]+arr[r]+arr[i]-target))
-
-                    if(abs(ress)>t):
-    
-                        ress = t
-                        fin = summm
-                    l = l+1
-                # ?print(summm, ress,fin)
-        return fin
+        for i in range(len(nums) - 2):
+            left, right = i + 1, len(nums) - 1
+            
+            while left < right:
+                current_sum = nums[i] + nums[left] + nums[right]
+                
+                # If the current sum is exactly the target, return it
+                if current_sum == target:
+                    return current_sum
+                
+                # Update the closest sum if the current one is closer
+                if abs(current_sum - target) < abs(closest_sum - target):
+                    closest_sum = current_sum
+                
+                # Move the pointers
+                if current_sum < target:
+                    left += 1
+                else:
+                    right -= 1
+        
+        return closest_sum
