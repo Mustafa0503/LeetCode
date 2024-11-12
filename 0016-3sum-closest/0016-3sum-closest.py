@@ -2,7 +2,6 @@ class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
         arr = nums
         arr.sort()
-        print(arr)
         res = []
         
         ress=abs(nums[0]+nums[1]+nums[2]-target)
