@@ -11,12 +11,13 @@ class Solution:
         mapping = {')': '(', '}': '{', ']': '['}
         for i in s:
             if(i not in mapping):
-                stack.insert(0,i)
+                stack.append(i)
             else:
                 if(len(stack)!=0):
-                    if(stack[0]!=mapping[i]):
+                    peek = stack.pop()
+                    if(peek!=mapping[i]):
                         return False
-                    stack = stack[1:]
+                    
                     count+=1
         if(len(stack)==0 and hit==count):
             return True
