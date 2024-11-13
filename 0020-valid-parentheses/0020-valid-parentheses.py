@@ -18,7 +18,6 @@ class Solution:
                 if(len(stack)!=0):
                     if(stack[0]=="(" and i!=")" or stack[0]=="{" and i!="}" or stack[0]=="[" and i!="]"):
                         return False
-                    print(count)
                     stack = stack[1:]
                     count+=1
 
