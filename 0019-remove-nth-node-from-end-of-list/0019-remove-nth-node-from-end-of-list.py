@@ -10,7 +10,6 @@ class Solution:
         f = head
         leng =0
         while(f!= None):
-        
             f=f.next
             leng+=1
         target = leng-n
@@ -21,10 +20,7 @@ class Solution:
         f2=f1.next
 
         while(f1.next!=None):
-            print(f1.val,f2.val)
-            
             if(c==target):
-                print(f1.val,f2.val)
                 f1.next = f2.next
                 break
             f1=f1.next
