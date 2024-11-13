@@ -7,14 +7,14 @@ class Solution:
         stack = []
         hit = len(s)/2
         count=0
-        op=["(","[","{"]
-
+      
+        mapping = {')': '(', '}': '{', ']': '['}
         for i in s:
-            if(i in op):
+            if(i not in mapping):
                 stack.insert(0,i)
             else:
                 if(len(stack)!=0):
-                    if(stack[0]=="(" and i!=")" or stack[0]=="{" and i!="}" or stack[0]=="[" and i!="]"):
+                    if(stack[0]!=mapping[i]):
                         return False
                     stack = stack[1:]
                     count+=1
