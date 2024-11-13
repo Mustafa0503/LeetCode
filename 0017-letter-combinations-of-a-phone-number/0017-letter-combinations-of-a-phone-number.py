@@ -20,13 +20,15 @@ class Solution:
         
         for i in digits:
             new_comb=[]
-            word = d[i]
+          
 
             for comb in combinations:
-                
-                for letter in word:
+                print("comb: ",comb)
+
+                for letter in d[i]:
                    
                     new_comb.append(comb + letter)
+                
             combinations = new_comb                   
                 
 
