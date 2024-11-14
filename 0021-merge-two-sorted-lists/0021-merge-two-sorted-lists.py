@@ -25,7 +25,6 @@ class Solution:
                 l3.next = ListNode(l2.val)
                 l3=l3.next
                 l2=l2.next
-        
         if(l1!=None):
             l3.next= l1
             l3=l3.next
