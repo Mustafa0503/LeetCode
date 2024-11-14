@@ -27,7 +27,7 @@ class Solution:
                 l2=l2.next
         if(l1!=None):
             l3.next= l1
-            l3=l3.next
+            
         if(l2!=None):
             l3.next= l2
         return head.next
