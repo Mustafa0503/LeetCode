@@ -16,20 +16,16 @@ class Solution:
             while(l1!=None and l2!=None):
                 if(l1.val<=l2.val):
                     l3.next = ListNode(l1.val)
-                    l3=l3.next
                     l1=l1.next
                 elif(l1.val>l2.val):
                     l3.next = ListNode(l2.val)
-                    l3=l3.next
                     l2=l2.next
+                l3=l3.next
             if(l1!=None):
                 l3.next= l1
             if(l2!=None):
                 l3.next= l2
             l3 = head
-            # print(l3.next)
-            # print("*************************")
-            # print(l3)
             l1=head.next
             yo = head.next
             # while(yo):
