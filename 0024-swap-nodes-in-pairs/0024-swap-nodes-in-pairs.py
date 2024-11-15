@@ -12,10 +12,6 @@ class Solution:
             c=c+1
             d=d.next
         if(not head or head.next==None): return head
-        elif(c==2):
-            n1 = ListNode(head.next.val)
-            n1.next = ListNode(head.val)
-            return n1
         elif(c==3):
             n1 = ListNode(head.next.val)
             n2 = ListNode(head.val)
@@ -31,6 +27,7 @@ class Solution:
         l4.next = ListNode(l1.val)
         l4=l4.next
         while(l1.next and l1.next.next and l1.next.next.next):
+
             l1=l1.next.next
             l2=l1.next
             l4.next = ListNode(l2.val)
