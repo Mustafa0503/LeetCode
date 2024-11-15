@@ -9,6 +9,7 @@ LeetCode
 | [0012-integer-to-roman](https://github.com/Mustafa0503/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ LeetCode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ LeetCode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
