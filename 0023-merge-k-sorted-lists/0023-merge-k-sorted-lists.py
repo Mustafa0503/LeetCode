@@ -1,30 +1,34 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
-    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        head = ListNode(0)
-        l3 = head
-        if(len(lists)!=0):l1 = lists[0]   
-        else:return None
-        for i in range(1,len(lists)):
-            l2=lists[i]
-            while(l1!=None and l2!=None):
-                
-                if(l1.val<=l2.val):
-                    l3.next = ListNode(l1.val)
-                    l1=l1.next
-                elif(l1.val>l2.val):
-                    l3.next = ListNode(l2.val)
-                    l2=l2.next
-                l3=l3.next
-            if(l1!=None):
-                l3.next= l1
-            if(l2!=None):
-                l3.next= l2
-            l1=head.next
-            l3 = head
-            
-        return l1
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]: 
+        if not lists or len(lists) == 0:
+            return None
+        
+        while len(lists) > 1:
+            temp = []
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i+1] if i + 1 < len(lists) else None
+                temp.append(self.merge_lists(l1, l2))
+            lists = temp
+        
+        return lists[0]
+    
+    def merge_lists(self, l1, l2):
+        node = ListNode()
+        ans = node
+        
+        while l1 and l2:
+            if l1.val > l2.val:
+                node.next = l2
+                l2 = l2.next
+            else:
+                node.next = l1
+                l1 = l1.next
+            node = node.next
+        
+        if l1:
+            node.next = l1
+        else:
+            node.next = l2
+        
+        return ans.next
