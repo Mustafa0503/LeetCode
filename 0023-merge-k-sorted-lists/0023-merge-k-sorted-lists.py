@@ -24,9 +24,7 @@ class Solution:
                 l3.next= l1
             if(l2!=None):
                 l3.next= l2
-           
-            
-            l3 = head
             l1=head.next
+            l3 = head
             
         return l1
