@@ -31,7 +31,7 @@ class Solution:
             # print("*************************")
             # print(l3)
             l1=head.next
-            # yo = head.next
+            yo = head.next
             # while(yo):
             #     print(yo.val)
             #     yo = yo.next
