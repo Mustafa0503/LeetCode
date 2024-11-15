@@ -11,9 +11,8 @@ class Solution:
             l1 = lists[0]
         else:
             return None
-        for i in range(len(lists)-1):
-            
-            l2=lists[i+1]
+        for i in range(1,len(lists)):
+            l2=lists[i]
             while(l1!=None and l2!=None):
                 if(l1.val<=l2.val):
                     l3.next = ListNode(l1.val)
@@ -28,8 +27,11 @@ class Solution:
             if(l2!=None):
                 l3.next= l2
             l3 = head
+            # print(l3.next)
+            # print("*************************")
+            # print(l3)
             l1=head.next
-            yo = l1
+            # yo = head.next
             # while(yo):
             #     print(yo.val)
             #     yo = yo.next
