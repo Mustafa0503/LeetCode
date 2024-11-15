@@ -31,7 +31,6 @@ class Solution:
         l4.next = ListNode(l1.val)
         l4=l4.next
         while(l1.next and l1.next.next and l1.next.next.next):
-
             l1=l1.next.next
             l2=l1.next
             l4.next = ListNode(l2.val)
