@@ -7,10 +7,8 @@ class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         head = ListNode(0)
         l3 = head
-        if(len(lists)!=0):
-            l1 = lists[0]
-        else:
-            return None
+        if(len(lists)!=0):l1 = lists[0]   
+        else:return None
         for i in range(1,len(lists)):
             l2=lists[i]
             while(l1!=None and l2!=None):
@@ -27,7 +25,7 @@ class Solution:
                 l3.next= l2
             l3 = head
             l1=head.next
-            yo = head.next
+            # yo = head.next
             # while(yo):
             #     print(yo.val)
             #     yo = yo.next
