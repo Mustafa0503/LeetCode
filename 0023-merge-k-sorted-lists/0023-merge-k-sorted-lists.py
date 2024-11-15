@@ -7,7 +7,6 @@ class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         head = ListNode(0)
         l3 = head
-        
         if(len(lists)!=0):
             l1 = lists[0]
         else:
@@ -29,8 +28,7 @@ class Solution:
                 l3.next= l1
             if(l2!=None):
                 l3.next= l2
-            l3=head.next
-            l1=l3
+           
+            l1=head.next
             yo = l3
-
         return l1
