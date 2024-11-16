@@ -12,21 +12,25 @@ class Solution:
             c=c+1
             d=d.next
         if(not head or head.next==None): return head
+        elif(c==3):
+            n1 = ListNode(head.next.val)
+            n2 = ListNode(head.val)
+            n1.next = n2
+            n2.next = head.next.next
+            return n1
+        dum = ListNode(0,head)
+        fin = head.next
         l1 = head
-        l2=head.next
-        l3 = ListNode()
-        l4=l3
-        l4.next = ListNode(l2.val)
-        l4=l4.next
-        l4.next = ListNode(l1.val)
-        l4=l4.next
-        while(l1.next and l1.next.next and l1.next.next.next):
-            l1=l1.next.next
+        l2 = head.next
+        prev = None
+        while(l2 ):
+            if(prev): prev.next = l2
+            temp = l2.next
+            l2.next = l1
+            l1.next = temp
+            if(not l1.next): break
+            prev = l1
+            l1=l1.next
             l2=l1.next
-            l4.next = ListNode(l2.val)
-            l4=l4.next
-            l4.next = ListNode(l1.val)
-            l4=l4.next
-        if(c%2!=0):
-            l4.next = l1.next.next
-        return l3.next
+            
+        return fin
