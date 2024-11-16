@@ -24,6 +24,7 @@ LeetCode
 | [0015-3sum](https://github.com/Mustafa0503/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mustafa0503/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ LeetCode
 | [0016-3sum-closest](https://github.com/Mustafa0503/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mustafa0503/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
