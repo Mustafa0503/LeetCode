@@ -12,13 +12,6 @@ class Solution:
             c=c+1
             d=d.next
         if(not head or head.next==None): return head
-        elif(c==3):
-            n1 = ListNode(head.next.val)
-            n2 = ListNode(head.val)
-            n1.next = n2
-            n2.next = head.next.next
-            return n1
-        dum = ListNode(0,head)
         fin = head.next
         l1 = head
         l2 = head.next
