@@ -23,7 +23,7 @@ class Solution:
         l1 = head
         l2 = head.next
         prev = None
-        while(l2):
+        while(l1.next):
             if(prev): prev.next = l2
             temp = l2.next
             l2.next = l1
