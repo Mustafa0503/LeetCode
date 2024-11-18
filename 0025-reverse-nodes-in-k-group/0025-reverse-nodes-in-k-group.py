@@ -22,16 +22,11 @@ class Solution:
             arr.append(one)
             one = []
         for i in arr:
-            new_node = None
-            for j in i:
-                node = ListNode(j)
-                if(len(i)==k):
-                    node.next = new_head
-                    new_head = node
-            while(new_head):
-                fin.next = new_head
-                fin=fin.next
-                new_head = new_head.next
+            for j in reversed(i):
+                if(k==len(i)):
+                    node = ListNode(j)
+                    fin.next = node
+                    fin = fin.next
         if(k!=1 and le%k!=0):
             for i in arr[-1]:
                 fin.next = ListNode(i)
