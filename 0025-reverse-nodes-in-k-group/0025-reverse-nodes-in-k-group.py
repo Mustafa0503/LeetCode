@@ -24,7 +24,6 @@ class Solution:
             group = k
             arr.append(one)
             one = []
-        print(arr)
         # fin = new_head.next
         for i in arr:
             new_head = last_head
@@ -39,7 +38,6 @@ class Solution:
                 fin.next = last_head
                 fin=fin.next
                 last_head = last_head.next
-        print(le)
         if(k!=1 and le%k!=0):
             for i in arr[-1]:
                 fin.next = ListNode(i)
