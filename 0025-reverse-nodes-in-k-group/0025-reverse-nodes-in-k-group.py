@@ -7,7 +7,6 @@ class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         group =k
         new_head = None
-        arr = []
         fin = ListNode(0)
         ans = fin
         one =[]
@@ -22,7 +21,6 @@ class Solution:
                     node = ListNode(p)
                     fin.next = node
                     fin = fin.next
-                arr.append(one)
                 one = []
         if(len(one) !=k):
             for p in (one):
