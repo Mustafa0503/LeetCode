@@ -47,6 +47,7 @@ LeetCode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mustafa0503/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mustafa0503/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ LeetCode
 | [0015-3sum](https://github.com/Mustafa0503/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mustafa0503/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mustafa0503/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +84,7 @@ LeetCode
 | [0023-merge-k-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mustafa0503/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mustafa0503/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mustafa0503/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -102,6 +106,7 @@ LeetCode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
