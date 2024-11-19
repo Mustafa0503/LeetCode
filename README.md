@@ -30,12 +30,14 @@ LeetCode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mustafa0503/LeetCode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mustafa0503/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ LeetCode
 | [0016-3sum-closest](https://github.com/Mustafa0503/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
