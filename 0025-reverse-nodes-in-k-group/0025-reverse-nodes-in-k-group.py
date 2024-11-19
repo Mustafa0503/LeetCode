@@ -22,14 +22,9 @@ class Solution:
                     fin.next = node
                     fin = fin.next
                 one = []
-        if(len(one) !=k):
-            for p in (one):
-                node = ListNode(p)
-                fin.next = node
-                fin = fin.next
-        else:
-            for p in reversed(one):
-                node = ListNode(p)
-                fin.next = node
-                fin = fin.next
+        last = one if(len(one)!=k) else reversed(one)
+        for p in last:
+            node = ListNode(p)
+            fin.next = node
+            fin = fin.next
         return ans.next
