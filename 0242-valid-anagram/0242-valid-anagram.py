@@ -1,20 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if(len(s)!=len(t)):
+        if len(s) != len(t):
             return False
-        sd={}
-        td={}
-        for i in range(len(s)):
-            if(s[i]in sd):
-                sd[s[i]]+=1
-            else:
-                sd[s[i]]=1
-            if(t[i]in td):
-                td[t[i]]+=1
-            else:
-                td[t[i]]=1
 
-        return sd==td
+        countS, countT = {}, {}
+
+        for i in range(len(s)):
+            countS[s[i]] = 1 + countS.get(s[i], 0)
+            countT[t[i]] = 1 + countT.get(t[i], 0)
+        return countS == countT
             
 
         
