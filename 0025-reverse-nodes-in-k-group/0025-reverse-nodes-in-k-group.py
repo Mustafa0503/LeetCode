@@ -16,7 +16,7 @@ class Solution:
                 one.append(head.val)
                 group = group -1
                 head = head.next
-            if(group==0):
+            else:
                 group = k
                 arr.append(one)
                 one = []
