@@ -18,19 +18,20 @@ class Solution:
                 head = head.next
             else:
                 group = k
+                for p in reversed(one):
+                    node = ListNode(p)
+                    fin.next = node
+                    fin = fin.next
                 arr.append(one)
                 one = []
-        arr.append(one)
-        one = []
-        for i in arr:
-            if(k==len(i)):
-                for j in reversed(i):
-                    node = ListNode(j)
-                    fin.next = node
-                    fin = fin.next
-            else:
-                for j in (i):
-                    node = ListNode(j)
-                    fin.next = node
-                    fin = fin.next
+        if(len(one) !=k):
+            for p in (one):
+                node = ListNode(p)
+                fin.next = node
+                fin = fin.next
+        else:
+            for p in reversed(one):
+                node = ListNode(p)
+                fin.next = node
+                fin = fin.next
         return ans.next
