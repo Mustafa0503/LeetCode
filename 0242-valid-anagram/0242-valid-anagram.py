@@ -13,10 +13,8 @@ class Solution:
                 td[t[i]]+=1
             else:
                 td[t[i]]=1
-        for i in s:
-            if(sd.get(i)!=td.get(i)):
-                return False
-        return True
+
+        return sd==td
             
 
         
