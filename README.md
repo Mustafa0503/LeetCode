@@ -12,6 +12,7 @@ LeetCode
 | [0020-valid-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mustafa0503/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ LeetCode
 | [0012-integer-to-roman](https://github.com/Mustafa0503/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ LeetCode
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
