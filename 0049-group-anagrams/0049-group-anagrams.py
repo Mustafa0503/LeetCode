@@ -7,5 +7,4 @@ class Solution:
                 d[k].append(strs[i])
             else:
                 d[k] = [strs[i]]
-        print(d.values())
         return list(d.values())
