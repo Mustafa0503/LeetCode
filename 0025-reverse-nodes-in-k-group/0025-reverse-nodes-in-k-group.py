@@ -10,17 +10,18 @@ class Solution:
         arr = []
         fin = ListNode(0)
         ans = fin
-        le = 0
+        one =[]
         while(head):
-            one = []
-            while(head and group>0):
+            if(head and group>0):
                 one.append(head.val)
                 group = group -1
                 head = head.next
-                le+=1
-            group = k
-            arr.append(one)
-            one = []
+            if(group==0):
+                group = k
+                arr.append(one)
+                one = []
+        arr.append(one)
+        one = []
         for i in arr:
             if(k==len(i)):
                 for j in reversed(i):
