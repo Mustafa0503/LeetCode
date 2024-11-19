@@ -24,18 +24,12 @@ class Solution:
         for i in arr:
             if(k==len(i)):
                 for j in reversed(i):
-                    # if(k==len(i)):
                     node = ListNode(j)
                     fin.next = node
                     fin = fin.next
             else:
                 for j in (i):
-                    # if(k==len(i)):
                     node = ListNode(j)
                     fin.next = node
                     fin = fin.next
-        # if(k!=1 and le%k!=0):
-        #     for i in arr[-1]:
-        #         fin.next = ListNode(i)
-        #         fin = fin.next
         return ans.next
