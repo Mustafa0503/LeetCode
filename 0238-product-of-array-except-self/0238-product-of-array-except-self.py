@@ -1,7 +1,7 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        
-        ans=[]
+        res = [0] * len(nums)
+       
         pre = {}
         prefix = 1
         pre[0]=1
@@ -13,5 +13,5 @@ class Solution:
         for i in range(len(nums)-2,-1,-1):
             suf[i] = suf[i+1] * nums[i+1]
         for i in range(len(nums)):
-            ans.append(pre[i]*suf[i])
-        return ans
+            res[i]=(pre[i]*suf[i])
+        return res
