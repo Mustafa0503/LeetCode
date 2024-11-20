@@ -5,7 +5,6 @@ class Solution:
         def rec():
 
             if(len(temp)==len(nums)):
-                print(temp)
                 fin.append(temp[:])
 
             for i in nums:
