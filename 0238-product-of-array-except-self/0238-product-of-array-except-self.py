@@ -16,8 +16,6 @@ class Solution:
             suf_num = suffix * nums[i+1]
             suf[i] = suf_num
             suffix = suf_num
-        print(pre)
-        print(suf)
         for i in range(len(nums)):
             ans.append(pre[i]*suf[i])
         return ans
