@@ -16,7 +16,6 @@ class Solution:
                                     return False
                                 else:
                                     setmid.add(board[o][k])
-                    print(setmid)
                     setmid = set()
                 if(board[i][j]!="."):
                     if(board[i][j] in setrow):
@@ -28,10 +27,8 @@ class Solution:
                         return False
                     else:
                         setcol.add(board[j][i])
-            
             setcol = set()
             setrow = set()
-
         return True
     board = [
     ["5", "3", "6", ".", "7", ".", ".", ".", "."],
