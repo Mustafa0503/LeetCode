@@ -43,6 +43,7 @@ LeetCode
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mustafa0503/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ LeetCode
 | [0020-valid-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mustafa0503/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -174,4 +176,5 @@ LeetCode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
