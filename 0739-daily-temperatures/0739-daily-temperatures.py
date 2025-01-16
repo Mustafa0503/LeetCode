@@ -3,8 +3,8 @@ class Solution:
         ans = [0]* len(temperatures)
         stack = []
         for i in range(len(temperatures)):
-            while(stack and temperatures[i]>stack[-1][0]):
-                ans[stack[-1][1]]=i-stack[-1][1]
+            while(stack and temperatures[i]>temperatures[stack[-1]]):
+                ans[stack[-1]]=i-stack[-1]
                 stack.pop()
-            stack.append([temperatures[i],i])
+            stack.append(i)
         return ans
