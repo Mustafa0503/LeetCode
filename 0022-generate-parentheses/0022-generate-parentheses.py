@@ -1,23 +1,20 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        
-        temp = []
-        fin = []
-        def helper(openC,closeC):
-            
-            if(openC==closeC==n):
-                fin.append("".join(temp))
+        ans = []
+        l=0
+        r=0
+        t=[]
+        def helper(l,r,t):
+            if(l==r==n):
+                ans.append("".join(t))
                 return
-            if(openC<n):
-                temp.append('(')
-                helper(openC+1,closeC)
-                temp.pop()
-
-            if(openC>closeC):
-                temp.append(")")
-                helper(openC,closeC+1)
-                temp.pop()
-          
-        helper(0,0)
-        return fin
-            
+            if(l<n):
+                t.append("(")
+                helper(l+1,r,t)
+                t.pop()
+            if(r<n and r<l):
+                t.append(")")
+                helper(l,r+1,t)
+                t.pop()
+        helper(l,r,t)
+        return ans
