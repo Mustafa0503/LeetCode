@@ -6,7 +6,6 @@ class Solution:
         r=len(nums)-1
         while(l<=r and len(nums)>=3):
             mid = (r-l)//2+l
-            print(l,r,mid)
             if(nums[l]<nums[mid]):
                 l=mid
             elif(nums[l]>nums[mid]):
