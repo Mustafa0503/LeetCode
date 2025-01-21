@@ -1,6 +1,6 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        if(len(nums)<=3):
+        if(len(nums)<=2):
             return min(nums)
         l=0
         r=len(nums)-1
@@ -11,7 +11,7 @@ class Solution:
             elif(nums[l]>nums[mid]):
                 r=mid
             else:
-                if(l+1==r and nums[l]>nums[r]):
+                if(nums[l]>nums[r]):
                     return nums[r]
                 else:
                     return min(nums[0],nums[len(nums)-1]) 
