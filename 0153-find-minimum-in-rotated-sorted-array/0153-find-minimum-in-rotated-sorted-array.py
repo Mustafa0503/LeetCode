@@ -4,7 +4,7 @@ class Solution:
             return min(nums)
         l=0
         r=len(nums)-1
-        while(l<=r and len(nums)>=3):
+        while(1):
             mid = (r-l)//2+l
             if(nums[l]<nums[mid]):
                 l=mid
