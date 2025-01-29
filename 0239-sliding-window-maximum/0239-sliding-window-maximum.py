@@ -15,9 +15,9 @@ class Solution:
             if(r>=k-1):
                 ans.append(dq[0])
             if(nums[l]==dq[0]and r>=k-1):
- 
+
                 dq.popleft()
-   
+
             if(r>=k-1):
                 l+=1
             r+=1
