@@ -53,6 +53,7 @@ LeetCode
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mustafa0503/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mustafa0503/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
@@ -94,6 +95,7 @@ LeetCode
 | [0141-linked-list-cycle](https://github.com/Mustafa0503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Mustafa0503/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
 ## Sorting
@@ -115,6 +117,7 @@ LeetCode
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Mustafa0503/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Mustafa0503/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -185,6 +188,7 @@ LeetCode
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mustafa0503/LeetCode/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
 | ------- |
