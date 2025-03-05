@@ -245,4 +245,20 @@ LeetCode
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
