@@ -44,6 +44,7 @@ LeetCode
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mustafa0503/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mustafa0503/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mustafa0503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +135,7 @@ LeetCode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +191,7 @@ LeetCode
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mustafa0503/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
