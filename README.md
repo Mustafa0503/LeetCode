@@ -40,6 +40,7 @@ LeetCode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mustafa0503/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Mustafa0503/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
@@ -134,6 +135,7 @@ LeetCode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 ## Stack
