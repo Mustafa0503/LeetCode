@@ -17,6 +17,7 @@ LeetCode
 | [0076-minimum-window-substring](https://github.com/Mustafa0503/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Mustafa0503/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Mustafa0503/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mustafa0503/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mustafa0503/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mustafa0503/LeetCode/tree/master/0567-permutation-in-string) |
@@ -233,6 +234,7 @@ LeetCode
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mustafa0503/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/Mustafa0503/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -273,6 +275,7 @@ LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mustafa0503/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mustafa0503/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -305,4 +308,8 @@ LeetCode
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mustafa0503/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
