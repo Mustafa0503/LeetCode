@@ -64,6 +64,7 @@ LeetCode
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Mustafa0503/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Mustafa0503/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@ LeetCode
 | [0036-valid-sudoku](https://github.com/Mustafa0503/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -296,6 +298,7 @@ LeetCode
 | [0199-binary-tree-right-side-view](https://github.com/Mustafa0503/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
