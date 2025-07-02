@@ -65,6 +65,7 @@ LeetCode
 | [0883-car-fleet](https://github.com/Mustafa0503/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Mustafa0503/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Mustafa0503/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ LeetCode
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mustafa0503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Mustafa0503/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -334,6 +336,7 @@ LeetCode
 | [0133-clone-graph](https://github.com/Mustafa0503/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Mustafa0503/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -342,4 +345,8 @@ LeetCode
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Mustafa0503/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
