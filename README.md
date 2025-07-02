@@ -186,6 +186,7 @@ LeetCode
 | [0023-merge-k-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mustafa0503/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -289,6 +290,7 @@ LeetCode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +302,7 @@ LeetCode
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -330,8 +333,13 @@ LeetCode
 | ------- |
 | [0133-clone-graph](https://github.com/Mustafa0503/LeetCode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
