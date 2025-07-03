@@ -25,6 +25,7 @@ LeetCode
 | [0647-palindromic-substrings](https://github.com/Mustafa0503/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Mustafa0503/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/Mustafa0503/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ LeetCode
 | [0213-house-robber-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Mustafa0503/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/Mustafa0503/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
