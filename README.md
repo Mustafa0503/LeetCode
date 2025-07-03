@@ -32,6 +32,7 @@ LeetCode
 | [0009-palindrome-number](https://github.com/Mustafa0503/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mustafa0503/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Mustafa0503/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mustafa0503/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mustafa0503/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
@@ -187,6 +188,7 @@ LeetCode
 | [0005-longest-palindromic-substring](https://github.com/Mustafa0503/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mustafa0503/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Mustafa0503/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mustafa0503/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -377,4 +379,8 @@ LeetCode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mustafa0503/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
