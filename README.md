@@ -68,6 +68,7 @@ LeetCode
 | [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mustafa0503/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
@@ -157,6 +158,7 @@ LeetCode
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Mustafa0503/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ LeetCode
 | [0198-house-robber](https://github.com/Mustafa0503/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mustafa0503/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0494-target-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Mustafa0503/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
