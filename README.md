@@ -8,6 +8,7 @@ LeetCode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mustafa0503/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mustafa0503/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Mustafa0503/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Mustafa0503/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Mustafa0503/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mustafa0503/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0020-valid-parentheses) |
@@ -184,6 +185,7 @@ LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mustafa0503/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mustafa0503/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mustafa0503/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -192,6 +194,7 @@ LeetCode
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mustafa0503/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Mustafa0503/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
