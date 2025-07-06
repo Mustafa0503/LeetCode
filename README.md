@@ -77,6 +77,7 @@ LeetCode
 | [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Mustafa0503/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Mustafa0503/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
@@ -101,6 +102,7 @@ LeetCode
 | [0424-longest-repeating-character-replacement](https://github.com/Mustafa0503/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mustafa0503/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Mustafa0503/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
@@ -133,6 +135,7 @@ LeetCode
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Mustafa0503/LeetCode/tree/master/0883-car-fleet) |
 ## Binary Search
 |  |
@@ -304,6 +307,7 @@ LeetCode
 | ------- |
 | [0134-gas-station](https://github.com/Mustafa0503/LeetCode/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 ## Tree
 |  |
 | ------- |
