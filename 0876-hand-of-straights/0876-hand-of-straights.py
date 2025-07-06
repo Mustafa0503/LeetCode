@@ -12,6 +12,6 @@ class Solution:
                 for i in range(groupSize):
                     if card_count[card + i] < count:
                         return False
-                    card_count[card ] -= count
+                    card_count[card + i] -= count
                     
         return True
