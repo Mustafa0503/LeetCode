@@ -8,6 +8,6 @@ class Solution:
             total += diff
             curr += diff
             if curr < 0:
-                start = i 
+                start = i + 1
                 curr = 0
         return start if total >= 0 else -1
