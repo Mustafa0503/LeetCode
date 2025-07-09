@@ -84,6 +84,7 @@ LeetCode
 | [0907-koko-eating-bananas](https://github.com/Mustafa0503/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mustafa0503/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Mustafa0503/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ LeetCode
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Mustafa0503/LeetCode/tree/master/0883-car-fleet) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Mustafa0503/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@ LeetCode
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Mustafa0503/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Mustafa0503/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Mustafa0503/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +234,7 @@ LeetCode
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Mustafa0503/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Merge Sort
 |  |
 | ------- |
@@ -411,4 +415,8 @@ LeetCode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Mustafa0503/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
