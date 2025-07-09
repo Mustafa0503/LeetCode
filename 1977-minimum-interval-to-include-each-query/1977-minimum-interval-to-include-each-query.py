@@ -9,7 +9,7 @@ class Solution:
         sorted_queries = sorted(queries)
 
         for q in sorted_queries:
-            while  intervals[i][0] <= q:
+            while i < len(intervals) and intervals[i][0] <= q:
                 l = intervals[i][0]
                 r = intervals[i][1]
                 heapq.heappush(minHeap, (r-l+1, r))
