@@ -54,6 +54,7 @@ LeetCode
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mustafa0503/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Mustafa0503/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Mustafa0503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
@@ -133,6 +134,7 @@ LeetCode
 | [0016-3sum-closest](https://github.com/Mustafa0503/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mustafa0503/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
