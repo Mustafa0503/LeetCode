@@ -15,6 +15,7 @@ LeetCode
 | [0022-generate-parentheses](https://github.com/Mustafa0503/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mustafa0503/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Mustafa0503/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Mustafa0503/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Mustafa0503/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0115-distinct-subsequences) |
