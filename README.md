@@ -56,6 +56,7 @@ LeetCode
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mustafa0503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mustafa0503/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mustafa0503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
@@ -274,6 +275,7 @@ LeetCode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mustafa0503/LeetCode/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mustafa0503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
@@ -422,4 +424,8 @@ LeetCode
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Mustafa0503/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
