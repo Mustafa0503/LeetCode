@@ -39,6 +39,7 @@ LeetCode
 | [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mustafa0503/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mustafa0503/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ LeetCode
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mustafa0503/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mustafa0503/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mustafa0503/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +106,7 @@ LeetCode
 | [0141-linked-list-cycle](https://github.com/Mustafa0503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mustafa0503/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mustafa0503/LeetCode/tree/master/0567-permutation-in-string) |
@@ -142,6 +145,7 @@ LeetCode
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Mustafa0503/LeetCode/tree/master/0883-car-fleet) |
@@ -153,6 +157,7 @@ LeetCode
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mustafa0503/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -254,6 +259,7 @@ LeetCode
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mustafa0503/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
