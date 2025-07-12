@@ -38,6 +38,7 @@ LeetCode
 | [0029-divide-two-integers](https://github.com/Mustafa0503/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Mustafa0503/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mustafa0503/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Mustafa0503/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mustafa0503/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 ## Array
@@ -180,6 +181,7 @@ LeetCode
 | [0039-combination-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Mustafa0503/LeetCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Mustafa0503/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0494-target-sum) |
 ## Stack
@@ -259,6 +261,7 @@ LeetCode
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mustafa0503/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Mustafa0503/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mustafa0503/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
