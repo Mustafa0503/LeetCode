@@ -64,6 +64,7 @@ LeetCode
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mustafa0503/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mustafa0503/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mustafa0503/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mustafa0503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -129,6 +130,7 @@ LeetCode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mustafa0503/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Mustafa0503/LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mustafa0503/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mustafa0503/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
@@ -145,6 +147,7 @@ LeetCode
 | [0018-4sum](https://github.com/Mustafa0503/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mustafa0503/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mustafa0503/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mustafa0503/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafa0503/LeetCode/tree/master/0242-valid-anagram) |
