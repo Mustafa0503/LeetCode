@@ -84,6 +84,7 @@ LeetCode
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0518-coin-change-ii) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -114,6 +115,7 @@ LeetCode
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mustafa0503/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mustafa0503/LeetCode/tree/master/0567-permutation-in-string) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Mustafa0503/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -249,6 +251,7 @@ LeetCode
 | [0023-merge-k-sorted-lists](https://github.com/Mustafa0503/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mustafa0503/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mustafa0503/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -336,6 +339,7 @@ LeetCode
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Mustafa0503/LeetCode/tree/master/0134-gas-station) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/Mustafa0503/LeetCode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Mustafa0503/LeetCode/tree/master/0876-hand-of-straights) |
 ## Tree
