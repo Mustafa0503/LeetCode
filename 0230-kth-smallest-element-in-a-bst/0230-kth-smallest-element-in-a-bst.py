@@ -14,6 +14,5 @@ class Solution:
             self.sol.append(root.val)
             help(root.right)
             return self.sol
-        ans = help(root)
-        return ans[k-1]
+        return help(root)[k-1]
             
