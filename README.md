@@ -358,6 +358,7 @@ LeetCode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -377,6 +378,7 @@ LeetCode
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -392,6 +394,7 @@ LeetCode
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,6 +408,7 @@ LeetCode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
