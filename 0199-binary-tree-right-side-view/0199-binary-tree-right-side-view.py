@@ -9,8 +9,10 @@ class Solution:
         if not root:
             return []
         sol = []
+        fi = []
         sol.append([root.val])
         s1 = []
+        s2 = []
         s1.append(root)
         while s1:
             
@@ -26,7 +28,6 @@ class Solution:
             s1 = temp
             if(tempSol):
                 sol.append(tempSol)
-        actulsol = []
         for i in sol:
-            actulsol.append(i[-1])
-        return actulsol
+            fi.append(i[-1])
+        return fi
