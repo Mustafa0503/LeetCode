@@ -12,15 +12,12 @@ class Solution:
         self.goodNode = 0
         
         def dfs(self, root, maxi):
-            print("maxi", maxi)
             if root==None:
                 return
-            print("val",root.val)
             
             if root.val>=maxi:
                 self.goodNode+=1
                 maxi = root.val
-            print("goodnode", self.goodNode)
             dfs(self, root.left, maxi)
             dfs(self, root.right, maxi)
             return self.goodNode
