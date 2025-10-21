@@ -1,23 +1,18 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        path = []
+  
 
-        def dfs(used):
-            if len(path) == len(nums):
+        def dfs(path):
+            if len(path)==len(nums):
                 res.append(path.copy())
                 return
+            for num in nums:
+                if num not in path:
+                    path.append(num)
+                    dfs(path)
+                    path.pop()
+                
 
-            for i in range(len(nums)):
-                if used[i]:
-                    continue
-                used[i] = True
-                path.append(nums[i])
-
-                dfs(used)
-
-                path.pop()
-                used[i] = False
-
-        dfs([False] * len(nums))
+        dfs([])
         return res
