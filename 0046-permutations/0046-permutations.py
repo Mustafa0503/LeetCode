@@ -8,10 +8,11 @@ class Solution:
                 res.append(path.copy())
                 return
             for num in nums:
-                if num not in path:
-                    path.append(num)
-                    dfs(path)
-                    path.pop()
+                if num in path:
+                    continue
+                path.append(num)
+                dfs(path)
+                path.pop()
                 
 
         dfs([])
