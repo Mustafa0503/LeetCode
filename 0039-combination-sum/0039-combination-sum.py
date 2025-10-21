@@ -3,9 +3,7 @@ class Solution:
         temp = []
         res  = []
         def dfs(i):
-            print("i",i)
-            print("temp", temp)
-            print("res", res)
+
             if sum(temp)==target:
                 res.append(temp.copy())
                 return
