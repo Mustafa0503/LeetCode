@@ -7,10 +7,9 @@ class Solution:
             if curr==target:
                 res.append(temp.copy())
                 return
-            if i>=len(candidates):
+            if i>=len(candidates) or curr>target:
                 return
-            if curr>target:
-                return
+
 
             temp.append(candidates[i])
             dfs(i,sum(temp))
