@@ -1,24 +1,25 @@
 class Solution:
+    #opt sol same shit loopin a bit diff
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        temp = []
-        res  = []
-        candidates.sort()
-        def dfs(i,curr):
+        res = []
+        candidates.sort()  # sort to handle duplicates easily
 
-            if curr==target:
-                
-                res.append(sorted(temp).copy())
+        def dfs(start, curr, total):
+            # Base cases
+            if total == target:
+                res.append(curr[:])
                 return
-            if i>=len(candidates) or curr>target:
+            if total > target:
                 return
 
+            prev = -1  # track previous candidate to skip duplicates
+            for i in range(start, len(candidates)):
+                if candidates[i] == prev:
+                    continue  # skip duplicate numbers on same depth level
+                curr.append(candidates[i])
+                dfs(i + 1, curr, total + candidates[i])  # move to next index
+                curr.pop()
+                prev = candidates[i]
 
-            temp.append(candidates[i])
-
-            dfs(i+1,sum(temp))
-            while(i+1<len(candidates) and candidates[i]==candidates[i+1]):
-                i+=1
-            temp.pop()
-            dfs(i+1,sum(temp))
-        dfs(0,0)
+        dfs(0, [], 0)
         return res
