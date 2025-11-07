@@ -17,6 +17,7 @@ LeetCode
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mustafa0503/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Mustafa0503/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mustafa0503/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Mustafa0503/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -64,6 +65,7 @@ LeetCode
 | [0073-set-matrix-zeroes](https://github.com/Mustafa0503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mustafa0503/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Mustafa0503/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0090-subsets-ii) |
@@ -196,6 +198,7 @@ LeetCode
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Mustafa0503/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Mustafa0503/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Mustafa0503/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -309,6 +312,7 @@ LeetCode
 | [0059-spiral-matrix-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mustafa0503/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
@@ -375,6 +379,7 @@ LeetCode
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0100-same-tree) |
