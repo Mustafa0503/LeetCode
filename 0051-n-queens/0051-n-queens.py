@@ -1,35 +1,29 @@
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
-        state = [["."] * n for _ in range(n)]  
-        res = []
+    def solveNQueens(self, n: int):
+        ans, board = [], [['.']*n for _ in range(n)]
 
-        visited_cols = set()
-        visited_diagonals = set()
-        visited_antidiagonals = set()
+        def valid(r, c):
+            for i in range(r):
+                if board[i][c] == 'Q': return False
+            i, j = r-1, c-1
+            while i >= 0 and j >= 0:
+                if board[i][j] == 'Q': return False
+                i -= 1; j -= 1
+            i, j = r-1, c+1
+            while i >= 0 and j < n:
+                if board[i][j] == 'Q': return False
+                i -= 1; j += 1
+            return True
 
-        def backtrack(row):
-            if row == n:
-                res.append(["".join(row) for row in state])
+        def dfs(r):
+            if r == n:
+                ans.append([''.join(row) for row in board])
                 return
+            for c in range(n):
+                if valid(r, c):
+                    board[r][c] = 'Q'
+                    dfs(r+1)
+                    board[r][c] = '.'
 
-            for col in range(n):
-                diagonal_difference = row - col
-                diagonal_sum = row + col
-
-                if not (col in visited_cols or
-                        diagonal_difference in visited_diagonals or
-                        diagonal_sum in visited_antidiagonals):
-
-                    visited_cols.add(col)
-                    visited_diagonals.add(diagonal_difference)
-                    visited_antidiagonals.add(diagonal_sum)
-                    state[row][col] = 'Q'
-                    backtrack(row + 1)
-
-                    visited_cols.remove(col)
-                    visited_diagonals.remove(diagonal_difference)
-                    visited_antidiagonals.remove(diagonal_sum)
-                    state[row][col] = '.'
-
-        backtrack(0)
-        return res
+        dfs(0)
+        return ans
