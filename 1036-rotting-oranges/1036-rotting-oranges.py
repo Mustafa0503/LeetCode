@@ -11,7 +11,8 @@ class Solution:
                     q.append((i,j))
         maxi = 0
         while(q and good>0):
-            for _ in range(len(q)):
+            a=len(q)
+            for _ in range(a):
                 row,col = q.popleft()
                 if 0<row+1<len(grid) and grid[row+1][col]==1:
                     q.append((row+1,col))
