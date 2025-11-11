@@ -6,11 +6,11 @@ class Solution:
         ans = []
         temp=[]
         def dfs(ind):
-            print("temp: ",temp,"ind: ",ind)
+
             if ind == len(s):
                 ans.append(temp.copy())
                 return
-            print("got here")
+
             for i in range(ind,len(s)):
                 if(palindrome(s[ind:i+1])):
                     temp.append(s[ind:i+1])
