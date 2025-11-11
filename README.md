@@ -59,6 +59,7 @@ LeetCode
 | [0042-trapping-rain-water](https://github.com/Mustafa0503/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Mustafa0503/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Mustafa0503/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mustafa0503/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mustafa0503/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -196,6 +197,7 @@ LeetCode
 | [0039-combination-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mustafa0503/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mustafa0503/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Mustafa0503/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mustafa0503/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
