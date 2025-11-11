@@ -1,14 +1,33 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        seen = set()
-        def area(r, c):
-            if not (0 <= r < len(grid) and 0 <= c < len(grid[0])
-                    and (r, c) not in seen and grid[r][c]):
-                return 0
-            seen.add((r, c))
-            return (1 + area(r+1, c) + area(r-1, c) +
-                    area(r, c-1) + area(r, c+1))
-
-        return max(area(r, c)
-                   for r in range(len(grid))
-                   for c in range(len(grid[0])))
+        if not grid or not grid[0]:
+            return 0
+        m, n = len(grid), len(grid[0])
+        q = deque()
+        num = 0
+        maxi = 0
+        temp = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 1:
+                    num += 1
+                    grid[i][j] = 2
+                    q.append((i, j))
+                    while q:
+                        temp+=1
+                        r, c = q.popleft()
+                        if r + 1 < m and grid[r + 1][c] == 1:
+                            grid[r + 1][c] = 2
+                            q.append((r + 1, c))
+                        if r - 1 >= 0 and grid[r - 1][c] == 1:
+                            grid[r - 1][c] = 2
+                            q.append((r - 1, c))
+                        if c + 1 < n and grid[r][c + 1] == 1:
+                            grid[r][c + 1] = 2
+                            q.append((r, c + 1))
+                        if c - 1 >= 0 and grid[r][c - 1] == 1:
+                            grid[r][c - 1] = 2
+                            q.append((r, c - 1))
+                    maxi = max(temp,maxi)
+                    temp=0
+        return maxi
