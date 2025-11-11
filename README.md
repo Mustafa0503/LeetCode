@@ -92,6 +92,7 @@ LeetCode
 | [0494-target-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0518-coin-change-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Mustafa0503/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0695-max-area-of-island](https://github.com/Mustafa0503/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Mustafa0503/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mustafa0503/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -316,6 +317,7 @@ LeetCode
 | [0074-search-a-2d-matrix](https://github.com/Mustafa0503/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mustafa0503/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Mustafa0503/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Mustafa0503/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -323,6 +325,7 @@ LeetCode
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mustafa0503/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Mustafa0503/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mustafa0503/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Monotonic Stack
@@ -398,6 +401,7 @@ LeetCode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Mustafa0503/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -413,6 +417,7 @@ LeetCode
 | [0200-number-of-islands](https://github.com/Mustafa0503/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mustafa0503/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Mustafa0503/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Mustafa0503/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Mustafa0503/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
