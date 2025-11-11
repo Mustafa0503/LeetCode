@@ -1,6 +1,3 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid or not grid[0]:
