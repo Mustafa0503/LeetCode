@@ -1,7 +1,7 @@
 class Solution:
     def solveNQueens(self, n: int):
-        ans, board = [], [['.']*n for _ in range(n)]
-
+        board =  [['.']*n for _ in range(n)]
+        ans = []
         def valid(r, c):
             for i in range(r):
                 if board[i][c] == 'Q': return False
