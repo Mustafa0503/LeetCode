@@ -1,39 +1,38 @@
-from collections import deque
-
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        if not grid:
-            return -1
-        
-        m, n = len(grid), len(grid[0])
-        queue = deque()
-        fresh_oranges = 0
-        
-
-        for i in range(m):
-            for j in range(n):
+        rotten =0
+        good=0
+        q = deque()
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == 1:
+                    good +=1
                 if grid[i][j] == 2:
-                    queue.append((i, j, 0)) 
-                elif grid[i][j] == 1:
-                    fresh_oranges += 1
-        
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        max_time = 0
-        
-
-
-
-    
-        while queue:
-            x, y, time = queue.popleft()
-            for dx, dy in directions:
-                nx, ny = x + dx, y + dy
-                if 0 <= nx < m and 0 <= ny < n and grid[nx][ny] == 1:
-                    grid[nx][ny] = 2
-                    fresh_oranges -= 1
-                    queue.append((nx, ny, time + 1))
-                    max_time = max(max_time, time + 1)
-        if fresh_oranges > 0:
-            return -1
-        
-        return max_time
+                    q.append((i,j))
+        maxi = 0
+        while(q and good>0):
+            for _ in range(len(q)):
+                print(good)
+                row,col = q.popleft()
+                if 0<row+1<len(grid) and grid[row+1][col]==1:
+                    q.append((row+1,col))
+                    grid[row+1][col] = 2
+                    good-=1
+                if 0<col+1<len(grid[0]) and grid[row][col+1]==1:
+                    q.append((row,col+1))
+                    grid[row][col+1] = 2
+                    good-=1
+                if 0<=col-1<len(grid[0]) and grid[row][col-1]==1:
+                    q.append((row,col-1))
+                    grid[row][col-1] = 2
+                    good-=1
+                if 0<=row-1<len(grid) and grid[row-1][col]==1:
+                    q.append((row-1,col))
+                    grid[row-1][col] = 2
+                    good-=1
+            maxi+=1
+            
+        if good==0:
+            return maxi
+        return -1
+                        
