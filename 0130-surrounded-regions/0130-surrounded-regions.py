@@ -4,9 +4,7 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
         row,col = len(board),len(board[0])
-        print(row,col)
         def dfs(i,j):
-            print(i,j)
             if(i<0 or j<0 or i>=row or j >=col or board[i][j]!='O'):
                 return
             board[i][j]='Y'
