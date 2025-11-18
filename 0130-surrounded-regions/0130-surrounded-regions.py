@@ -3,34 +3,35 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-    
-        ROWS = len(board)
-        COLS = len(board[0])
-
-        def dfs(r, c):
-            if r < 0 or c < 0 or r >= ROWS or c >= COLS or board[r][c] != "O":
+        row,col = len(board),len(board[0])
+        print(row,col)
+        def dfs(i,j):
+            print(i,j)
+            if(i<0 or j<0 or i>=row or j >=col or board[i][j]!='O'):
                 return
-            
-            board[r][c] = "T"
-            dfs(r - 1, c)
-            dfs(r + 1, c)
-            dfs(r, c - 1)
-            dfs(r, c + 1)
-        
-        # 1. DFS (O -> T)
-        for r in range(ROWS):
-            for c in range(COLS):
-                if board[r][c] == "O" and (r in [0, ROWS - 1] or c in [0, COLS - 1]):
-                    dfs(r, c)
+            board[i][j]='Y'
+            dfs(i+1,j)
+            dfs(i,j+1)
+            dfs(i-1,j)
+            dfs(i,j-1)
+        for i in range(row):
+            if(board[i][0] == 'O'):
+                dfs(i,0)
 
-        # 2. (O -> X)
-        for r in range(ROWS):
-            for c in range(COLS):
-                if board[r][c] == "O":
-                    board[r][c] = "X"
+        for i in range(row):
+            if(board[i][col-1] == 'O'):
+                dfs(i,col-1)
 
-        # 3. (T -> O)
-        for r in range(ROWS):
-            for c in range(COLS):
-                if board[r][c] == "T":
-                    board[r][c] = "O"
+        for i in range(col):
+            if(board[0][i] == 'O'):
+                dfs(0,i)
+
+        for i in range(col):
+            if(board[row-1][i] == 'O'):
+                dfs(row-1,i)
+        for i in range(row):
+            for j in range(col):
+                if(board[i][j]=='O'):
+                    board[i][j]='X'
+                elif(board[i][j]=='Y'):
+                    board[i][j]='O'
