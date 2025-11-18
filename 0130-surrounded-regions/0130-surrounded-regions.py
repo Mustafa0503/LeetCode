@@ -5,9 +5,12 @@ class Solution:
         """
         row,col = len(board),len(board[0])
         def dfs(i,j):
+            
+           
             if(i<0 or j<0 or i>=row or j >=col or board[i][j]!='O'):
                 return
             board[i][j]='Y'
+
             dfs(i+1,j)
             dfs(i,j+1)
             dfs(i-1,j)
