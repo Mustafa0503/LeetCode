@@ -43,6 +43,7 @@ LeetCode
 | [0089-gray-code](https://github.com/Mustafa0503/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mustafa0503/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Mustafa0503/LeetCode/tree/master/0268-missing-number) |
+| [0829-consecutive-numbers-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0829-consecutive-numbers-sum) |
 ## Array
 |  |
 | ------- |
@@ -508,4 +509,8 @@ LeetCode
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Mustafa0503/LeetCode/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
