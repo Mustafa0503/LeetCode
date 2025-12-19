@@ -265,6 +265,7 @@ LeetCode
 | [0518-coin-change-ii](https://github.com/Mustafa0503/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Mustafa0503/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mustafa0503/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0935-knight-dialer](https://github.com/Mustafa0503/LeetCode/tree/master/0935-knight-dialer) |
 | [1250-longest-common-subsequence](https://github.com/Mustafa0503/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
